@@ -1,2 +1,0 @@
-# psychic-spork
-Spargalka
